@@ -1,6 +1,6 @@
 # Cluster Analysis
 
-The focus of this project is building a **k-means** cluster algorithm from scratch without use of any publicly avaliable libraries. The algorithm is then applied for Fashion MNIST dataset.
+The focus of this project is building a **k-means** cluster algorithm from scratch without use of any publicly available libraries. The algorithm is then applied for Fashion MNIST dataset.
 
 ## Clustering
 
